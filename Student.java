@@ -7,7 +7,7 @@ public static void main(String[] args)
     {
     System.out.println("Student 1 details:");
     Student st1 = new Student();
-    st1.name = "Rubayat";
+    st1.name = "Ruhul";
     st1.id = 28;
     st1.cgpa = 3.56f;
     System.out.println("Student name : "+st1.name);
@@ -16,7 +16,7 @@ public static void main(String[] args)
 
     System.out.println("Student 2 details:");
     Student st2 = new Student();
-    st2.name = "Ruhani";
+    st2.name = "Ruhul";
     st2.id = 03;
     st2.cgpa = 3.66f;
     System.out.println("Student name : "+st2.name);
